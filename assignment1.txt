@@ -1,4 +1,8 @@
-Personal Information
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Personal Information</h1>
+<p>Personal Information
 
 Mark Beames
 S3727840
@@ -52,16 +56,7 @@ The results would show that i'm more productive when given a task to do rather t
 
 •	How should you take this into account when forming a team?
 
-Taking these results into account, i would rather be a working member of the team rather than a delegator or leader. I'm less inclined to want to present team results orally and would prefer to allow a more extroverted member of the team to handle presentation.
-
-
-
-
-
-
-
-
-
-
-
+Taking these results into account, i would rather be a working member of the team rather than a delegator or leader. I'm less inclined to want to present team results orally and would prefer to allow a more extroverted member of the team to handle presentation.</p>
+</body>
+</html>
 
